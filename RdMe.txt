@@ -1,0 +1,8 @@
+Two Resources :
+
+Merchant
+Product
+
+
+
+I have used Advanced Rest client (google chrome plugin) for testing
